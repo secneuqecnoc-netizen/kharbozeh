@@ -15,7 +15,7 @@ Table of Contents
 *   [Google Analytics](#GoogleAnalytics)
 *   [Update favicon](#UpdateFavicon)
 *   [Credits](#Credits)
-*   [Support](#Support)
+*   [Support](#Supportt)
 
 * * *
 
