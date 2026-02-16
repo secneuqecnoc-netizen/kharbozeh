@@ -2,21 +2,23 @@ title: "Kharbozeh News"
 baseurl: "/kharbozeh"
 url: "https://secneuqecnoc-netizen.github.io"
 
-# تنظیمات اصلی
+# تنظیمات نمایش
 markdown: kramdown
 permalink: pretty
-paginate: 5
-paginate_path: "/page/:num"
 
-# پلاگین‌هایی که گیت‌هاب اجازه می‌دهد
+# پلاگین‌ها (فقط موارد مجاز گیت‌هاب)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# نادیده گرفتن فایل‌های سیستمی
+# تنظیمات صفحه بندی
+paginate: 5
+paginate_path: "/page/:num"
+
+# حذف فایل‌های اضافی از پردازش
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - ven
-  dor
+  - vendor
+  - .jekyll-cache
