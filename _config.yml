@@ -1,9 +1,3 @@
 title: "Kharbozeh News"
 baseurl: "/kharbozeh"
 url: "https://secneuqecnoc-netizen.github.io"
-
-markdown: kramdown
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-paginate
-  
